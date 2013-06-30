@@ -1,0 +1,44 @@
+In this tutorial instalation i will show you guys how to install my twitter bots.
+The goal of this bots is randomly pick mention from a who tweet or retweet with a certain @mention i.e. a person who tweet something with @minecraft this bot will catch his @twittername. You can optionally match from some other string in a tweet text. The mentions is stored on a Mysql database.
+
+After pick a random tweet from SQL Database and tweet to a random person like "@randomperson random cool tweet". 
+
+[size=150][color=#4000BF]Note, this is a GPL V1 program feel free to use and modify, use it at your own risk.[/color][/size]
+
+Required Software to run this custom bot.
+
+- Linux Machine.
+- Ruby on rails.
+- Ruby gems.
+- Ruby json gem.
+- Ruby fastercsv gem.
+- Python3
+- Tweepy
+- MySQL Database.
+
+[size=150]Install all dependecys on Fedora.[/size]
+Install Python3.
+[code]yum install python3[/code]
+Install ruby.
+[code]yum install ruby[/code]
+Install the ruby gems.
+[code]yum install gems[/code]
+Gems, make sure you install gems as root.
+[code]gem install fastercsv[/code]
+[code]gem install json[/code]
+Install tweepy program.
+[code]yum install tweepy[/code]
+To install MySQL follow the instructions [url]http://www.if-not-true-then-false.com/2010/install-mysql-on-fedora-centos-red-hat-rhel/[/url]
+
+[size=150]Install all dependencys on Ubuntu.[/size]
+Install ruby
+[code]sudo apt-get install ruby[/code]
+Install ruby gems,
+[code]sudo apt-get install ruby-gems[/code]
+Gems, install as root.
+[code]sudo gem install fastercsv[/code]
+[code]sudo gem install json[/code]
+Install tweepy program
+[code]sudo apt-get install tweepy[/code]
+Install mysql
+[code]sudo apt-get install mysql-server[/code]
