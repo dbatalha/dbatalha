@@ -1,2 +1,5 @@
-dbatalha
+Random Twitter Bot
 ========
+==
+  Daniel Batalha
+==  
