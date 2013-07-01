@@ -21,7 +21,7 @@ Note, this is a Open Source program feel free to use and modify, use it at your 
 - Tweepy
 - MySQL Database.
 
-## Install all dependecys on Fedora.
+## Install all dependencies on Fedora.
 Install Python3.
 `yum install python3`
 Install ruby.
@@ -35,7 +35,7 @@ Install tweepy program.
 `yum install tweepy`
 To install MySQL follow the instructions [Link](http://www.if-not-true-then-false.com/2010/install-mysql-on-fedora-centos-red-hat-rhel/).
 
-## Install all dependencys on Ubuntu.
+## Install all dependencies on Ubuntu.
 Install ruby
 `sudo apt-get install ruby`
 Install ruby gems,
